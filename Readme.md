@@ -1,0 +1,1 @@
+This is the readme file of the landing page project from TOP. I'll come back to this to tell a bit more about my experience, but for now I'm about to commit to check if it goes through to github repository.
