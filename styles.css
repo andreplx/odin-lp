@@ -80,7 +80,7 @@ h1 {
   text-align: center;
 }
 
-button {
+#button-top {
   background-color: #3882f6;
   color: white;
   border-radius: 5px;
@@ -141,7 +141,55 @@ h2 {
 }
 
 #author {
-    align-self: flex-end;
-    font-weight: 900;
-      width: 750px;
+  align-self: flex-end;
+  font-weight: 900;
+  width: 750px;
+}
+
+.fourth {
+  display: flex;
+  justify-content: center;
+}
+
+.cta {
+  width: 900px;
+  height: 100px;
+  background-color: #3882f6;
+  margin: 70px 50px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  display: flex;
+}
+
+.cta-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.cta-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  flex: 1;
+  margin-right: 100px;
+}
+
+#cta-main {
+  color: white;
+  font-weight: 600;
+}
+
+#cta-sub {
+  color: white;
+}
+
+#button-bottom {
+  background-color: #3882f6;
+  color: white;
+  border-radius: 5px;
+  border-color: white;
+  padding: 8px 25px;
+  box-shadow: none;
 }
