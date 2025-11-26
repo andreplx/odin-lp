@@ -1,1 +1,4 @@
-This is the readme file of the landing page project from TOP. I'll come back to this to tell a bit more about my experience, but for now I'm about to commit to check if it goes through to github repository.
+The project is now completed.
+This is the project for the landing page under the TOP web development course.
+The landing page has 5 main section (including footer) and was suggested after learning concepts of flexible boxes (Flex CSS property)
+Main challenge for me was to make the first section to display properly in terms of width so the others follow. It took me a bit of time to display in correctly.
